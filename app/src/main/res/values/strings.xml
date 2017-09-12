@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">StockViewer</string>
+    <string name="b_markets">MARKETS</string>
+    <string name="b_fav">FAVOURITE</string>
+    <string name="b_alerts">ALERTS</string>
+    <string name="b_back_toMain">BACK_TO_MAIN_SCREEN</string>
+    <string name="b_back_toScreen2">BACK_TO_LIST_OF_STOCKS</string>
+    <string name="tab_indices">INDICES</string>
+    <string name="tab_stocks">STOCKS</string>
+    <string name="screen3_overview">Overview</string>
+    <string name="screen3_predictions">Predictions</string>
+
+    <string name="key_statistics">Key Stats</string>
+    <string name="price_info">Price Info</string>
+    <string name="charts">Historical Chart</string>
+    <string name="prediction">5 days prediction</string>
+    <string name="title_activity_screen2_">screen2_Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="colorPrimary">#00000f</color>
+    <color name="colorPrimaryDark">#00000f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="google_now_background">#E5E5E5</color>
+
+    <color name="change_red">#ff022c</color>
+    <color name="change_green">#00CC00</color>
+
+
+    <color name="backGround_main">#000033</color>
+    <color name="backGround_light">#2a2b5d</color>
+    <color name="backGround_dark">#00000f</color>
+    <color name="grey">#263238</color>
+    <color name="grey_light">#4f5b62</color>
+    <color name="grey_dark">#000a12</color>
+
+</resources>
