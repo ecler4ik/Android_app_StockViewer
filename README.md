@@ -23,6 +23,6 @@ The flow of events of the application is the following:
     - the chart with predicted values is displayed
     <img width="248" alt="screen shot 2017-09-12 at 10 55 28 1" src="https://user-images.githubusercontent.com/24765972/30320267-0f588aba-97aa-11e7-8797-ead9f3158b1b.png">
     
-
+In case you have any questions, don't hesitate to contact me yavaleriyav@gmail.com
 
 
