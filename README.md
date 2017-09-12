@@ -1,4 +1,4 @@
-##StockViewer Android application
+## StockViewer Android application
 
 
 First of all, the Multilayer perceptron model was built using Tensorflow library. Then, the model was saved, freezed, optimized. 
